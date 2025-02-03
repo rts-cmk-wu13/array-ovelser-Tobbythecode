@@ -70,5 +70,9 @@ console.log(fruitsArray.indexOf("Mango"));
 
 console.log(fruitsArray.indexOf("Blåbær"));
 // ends DOMContentLoaded
-})
 
+
+// opgave 8
+dogsArray = dogsArray.filter(dog => dog !== "Polly");
+console.log(dogsArray);
+})

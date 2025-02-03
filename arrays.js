@@ -75,4 +75,18 @@ console.log(fruitsArray.indexOf("Blåbær"));
 // opgave 8
 dogsArray = dogsArray.filter(dog => dog !== "Polly");
 console.log(dogsArray);
+
+
+
+//ekstra opgave 
+
+
+let sum = 0;
+
+
+numbersArray.forEach( num => {
+  sum += num;
+})
+
+console.log(sum) 
 })

@@ -28,5 +28,9 @@ catsArray.push("sniffles");
 console.log(catsArray);
 
 
+// Opgave 3a
+
+console.log(dogsArray.includes("trixie"))
+
 
 }) // ends DOMContentLoaded

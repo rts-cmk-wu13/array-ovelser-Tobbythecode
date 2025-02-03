@@ -22,4 +22,11 @@ function checknumberval(number){
 
 console.log(result);
 
+// Opgave 2
+
+catsArray.push("sniffles");
+console.log(catsArray);
+
+
+
 }) // ends DOMContentLoaded

@@ -43,6 +43,13 @@ const foundcat = catsArray.find((element) => element == "Bagheera");
 
 console.log(foundcat)
 
+// opgave 4b
+
+const foundcat2 = catsArray.find((element) => element == "Salem");
+
+console.log(foundcat2)
+
+
 
 
 

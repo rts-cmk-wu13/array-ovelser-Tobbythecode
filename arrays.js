@@ -61,5 +61,14 @@ console.log(map1)
 
 console.log(dogsArray.toString());
 
+
+// opgave 7a
+
+console.log(fruitsArray.indexOf("Mango"));
+
+// opgave 7a
+
+console.log(fruitsArray.indexOf("Blåbær"));
 // ends DOMContentLoaded
 })
+

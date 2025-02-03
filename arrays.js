@@ -34,4 +34,17 @@ console.log(dogsArray.includes("trixie"))
 
 // Opgave 3b
 console.log(dogsArray.includes("Baxter"))
-}) // ends DOMContentLoaded
+ 
+
+// Opgave 4a
+
+
+const foundcat = catsArray.find((element) => element == "Bagheera");
+
+console.log(foundcat)
+
+
+
+
+// ends DOMContentLoaded
+})

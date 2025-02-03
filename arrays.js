@@ -32,5 +32,6 @@ console.log(catsArray);
 
 console.log(dogsArray.includes("trixie"))
 
-
+// Opgave 3b
+console.log(dogsArray.includes("Baxter"))
 }) // ends DOMContentLoaded
